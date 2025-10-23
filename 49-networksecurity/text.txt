@@ -1,0 +1,9 @@
+we are creating the push_data.py file 2nd 
+
+
+
+2nd 
+C:\Users\thaku\OneDrive\Desktop\udemy\dataScience\MySelf\49-networksecurity\networkSecurity\networksecurity\components\data_ingestion.py
+
+C:\Users\thaku\OneDrive\Desktop\udemy\dataScience\MySelf\49-networksecurity\networkSecurity\networksecurity\constant\training_pipeline\__init__.py 
+done somthig in this to 
